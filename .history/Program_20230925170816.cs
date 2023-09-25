@@ -9,6 +9,7 @@ static void Menu(double? finalValue) {
   Console.WriteLine("2 - Subtraction");
   Console.WriteLine("3 - Multiplication");
   Console.WriteLine("4 - Division");
+  Console.WriteLine("5 - Exit")
   Console.WriteLine("---------------------------------------------------------");
   Console.WriteLine("Select one option:");
 
@@ -50,6 +51,7 @@ static void Calculation(int calOperator, double? resultOperation) {
       result = value1 / value2;
       Console.WriteLine($"The result is: {result}");
     break;
+    case 5: System
     default: Menu(null); break;
   }
   Result(result);

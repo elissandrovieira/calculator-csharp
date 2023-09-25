@@ -71,8 +71,7 @@ static void Result(double? finalValue) {
     break;
     case 2: 
       Console.WriteLine("Ok!");
-      Console.ReadKey();
-      Menu(null);
+      Menu(null)
     break;
   }
 }

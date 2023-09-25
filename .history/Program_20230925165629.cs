@@ -69,10 +69,7 @@ static void Result(double? finalValue) {
   switch (resultOption) {
     case 1: Menu(finalValue);
     break;
-    case 2: 
-      Console.WriteLine("Ok!");
-      Console.ReadKey();
-      Menu(null);
+    case 2: Console.WriteLine("Ok!");
     break;
   }
 }
