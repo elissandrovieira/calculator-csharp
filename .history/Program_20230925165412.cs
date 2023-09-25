@@ -50,7 +50,7 @@ static void Calculation(int calOperator, double? resultOperation) {
       result = value1 / value2;
       Console.WriteLine($"The result is: {result}");
     break;
-    default: Menu(null); break;
+    default: Menu(); break;
   }
   Result(result);
 }
