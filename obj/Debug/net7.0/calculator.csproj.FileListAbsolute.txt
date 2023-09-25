@@ -1,0 +1,14 @@
+D:\Libraries\dev\Baltaio\calculator\bin\Debug\net7.0\calculator.exe
+D:\Libraries\dev\Baltaio\calculator\bin\Debug\net7.0\calculator.deps.json
+D:\Libraries\dev\Baltaio\calculator\bin\Debug\net7.0\calculator.runtimeconfig.json
+D:\Libraries\dev\Baltaio\calculator\bin\Debug\net7.0\calculator.dll
+D:\Libraries\dev\Baltaio\calculator\bin\Debug\net7.0\calculator.pdb
+D:\Libraries\dev\Baltaio\calculator\obj\Debug\net7.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Libraries\dev\Baltaio\calculator\obj\Debug\net7.0\calculator.AssemblyInfoInputs.cache
+D:\Libraries\dev\Baltaio\calculator\obj\Debug\net7.0\calculator.AssemblyInfo.cs
+D:\Libraries\dev\Baltaio\calculator\obj\Debug\net7.0\calculator.csproj.CoreCompileInputs.cache
+D:\Libraries\dev\Baltaio\calculator\obj\Debug\net7.0\calculator.dll
+D:\Libraries\dev\Baltaio\calculator\obj\Debug\net7.0\refint\calculator.dll
+D:\Libraries\dev\Baltaio\calculator\obj\Debug\net7.0\calculator.pdb
+D:\Libraries\dev\Baltaio\calculator\obj\Debug\net7.0\calculator.genruntimeconfig.cache
+D:\Libraries\dev\Baltaio\calculator\obj\Debug\net7.0\ref\calculator.dll

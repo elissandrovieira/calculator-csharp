@@ -1,0 +1,7 @@
+﻿// See https://aka.ms/new-console-template for more information
+
+Console.Clear();
+Console.WriteLine("First value: ");
+
+double value1 = double.Parse(Console.ReadLine());
+Console.WriteLine(value1)
